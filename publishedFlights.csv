@@ -1,0 +1,11 @@
+ID,Start,End,Source,Destination,Date,Capacity,Price,Filled
+1111,12:10,15:30,Bangalore,Delhi,14/04/2022,60,100,10
+2222,12:00,15:20,Delhi,Bangalore,14/04/2022,60,100,16
+654321,1:12,5:30,delhi,sri_lanka,22/04/2022,59,4000,45
+3333,2:15,4:15,kolkatha,jaipur,24/04/2022,60,3000,33
+4444,5:00,14:20,mumbai,vijayawada,24/04/2022,60,2344,45
+5555,6:00,13:15,chennai,hyderaabad,22/04/2022,10,3456,5
+6666,7:00,22:25,varanasi,kolkatha,23/04/2022,60,8765,35
+7777,8:00,23:30,goa,trivandrum,27/04/2022,60,3455,55
+8888,9:00,12:00,chattisgarh,chennai,26/04/2022,60,5433,45
+9999,10:00,13:00,raipur,delhi,25/04/2022,60,2434,56
